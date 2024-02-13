@@ -1,0 +1,1375 @@
+.logo-icon {
+    height : 161.1px;
+    width : 169px;
+    position : relative;
+    object-fit : cover;
+    }
+    .blog, .contact, .home, .store {
+    position : relative;
+    font-weight : 600;
+    }
+    .home-instance, .navigation-bar {
+    background-color : #fff;
+    display : flex;
+    align-items : flex-start;
+    }
+    .navigation-bar {
+    align-self : stretch;
+    overflow : hidden;
+    flex-direction : row;
+    justify-content : space-between;
+    }
+    .home-instance {
+    width : 523px;
+    flex-direction : column;
+    justify-content : flex-start;
+    box-sizing : border-box;
+    top : 0;
+    z-index : 99;
+    position : sticky;
+    max-width : 100%;
+    }
+    .join-bg {
+    align-self : stretch;
+    height : 30px;
+    position : relative;
+    }
+    .join-us {
+    position : relative;
+    font-size : inherit;
+    font-weight : 700;
+    font-family : inherit;
+    z-index : 1;
+    margin : -40px 0 0;
+    }
+    .join-us-button, .join-us-button-instance {
+    display : flex;
+    flex-direction : column;
+    justify-content : flex-start;
+    }
+    .join-us-button {
+    align-self : stretch;
+    flex : 1;
+    overflow : hidden;
+    align-items : center;
+    }
+    .join-us-button-instance {
+    width : 200px;
+    align-items : flex-start;
+    box-sizing : border-box;
+    }
+    .nav-bar {
+    align-self : stretch;
+    display : flex;
+    flex-direction : row;
+    align-items : center;
+    justify-content : space-between;
+    box-sizing : border-box;
+    max-width : 100%;
+    text-align : left;
+    }
+    .page-1-image {
+    width : 100%;
+    height : 100%;
+    position : absolute;
+    margin : 0 !important ;
+    top : 0;
+    right : 0.5px;
+    bottom : 0;
+    left : -0.5px;
+    max-width : 100%;
+    overflow : hidden;
+    max-height : 100%;
+    object-fit : cover;
+    }
+    .page-1-rec {
+    align-self : stretch;
+    height : 278px;
+    position : relative;
+    background-color : rgb(255, 255, 255, 0.64);
+    z-index : 1;
+    }
+    .build-with-us, .we-build-the {
+    margin : 0;
+    }
+    .page-1-text-container {
+    margin : 0;
+    height : 164px;
+    flex : 1;
+    position : relative;
+    font-size : inherit;
+    font-weight : 600;
+    font-family : inherit;
+    display : inline-block;
+    max-width : 100%;
+    z-index : 3;
+    }
+    .header-frame, .product-menu-item {
+    display : flex;
+    align-items : flex-start;
+    justify-content : flex-start;
+    max-width : 100%;
+    }
+    .product-menu-item {
+    align-self : stretch;
+    flex-direction : row;
+    padding : 0 0 0 16px;
+    box-sizing : border-box;
+    margin-top : -197px;
+    }
+    .header-frame {
+    width : 847px;
+    flex-direction : column;
+    min-height : 278px;
+    }
+    .page-1-text {
+    height : 10px;
+    position : relative;
+    font-weight : 600;
+    text-align : center;
+    display : inline-block;
+    z-index : 2;
+    }
+    .page-1-black-rec {
+    height : 45px;
+    width : 831px;
+    position : absolute;
+    margin : 0 !important ;
+    top : -6px;
+    left : -376px;
+    background-color : rgb(0, 0, 0, 0.28);
+    z-index : 1;
+    }
+    .kala-coach-icon {
+    height : 38px;
+    width : 131px;
+    object-fit : cover;
+    z-index : 2;
+    }
+    .integrations-menu-item, .kala-coach-icon {
+    position : relative;
+    }
+    .integrations-menu-item, .popup-builder-menu-item, .webdesign-menu-item {
+    display : flex;
+    flex-direction : row;
+    align-items : flex-start;
+    justify-content : flex-start;
+    }
+    .webdesign-menu-item {
+    cursor : pointer;
+    border : 0;
+    padding : 0;
+    background-color : transparent;
+    }
+    .explore-bg {
+    height : 70px;
+    width : 185px;
+    position : absolute;
+    margin : 0 !important ;
+    top : 0;
+    left : -1px;
+    }
+    .explore {
+    position : relative;
+    text-align : left;
+    z-index : 1;
+    }
+    .explore-arrow-icon {
+    bottom : 5px;
+    width : 29px;
+    height : 11px;
+    position : relative;
+    z-index : 1;
+    }
+    .store-page-nav-item {
+    height : 3px;
+    display : flex;
+    flex-direction : column;
+    align-items : flex-start;
+    justify-content : flex-start;
+    padding : 3px 0 0;
+    box-sizing : border-box;
+    }
+    .explore-botton, .navigation-bar-frame {
+    display : flex;
+    flex-direction : row;
+    justify-content : flex-start;
+    }
+    .explore-botton {
+    cursor : pointer;
+    border : 0;
+    overflow : hidden;
+    align-items : center;
+    position : relative;
+    gap : 22px;
+    z-index : 1;
+    }
+    .navigation-bar-frame {
+    align-items : flex-start;
+    }
+    .frame-parent, .pot-image {
+    display : flex;
+    flex-direction : column;
+    align-items : center;
+    justify-content : flex-start;
+    box-sizing : border-box;
+    max-width : 100%;
+    }
+    .pot-image {
+    width : 1187px;
+    position : relative;
+    gap : 23px;
+    }
+    .frame-parent {
+    width : 1299px;
+    text-align : center;
+    }
+    .what-we-believe {
+    margin : 0;
+    position : relative;
+    font-size : inherit;
+    font-weight : 600;
+    font-family : inherit;
+    }
+    .what-we-believe-in {
+    display : flex;
+    flex-direction : row;
+    align-items : center;
+    justify-content : center;
+    }
+    .building-trust-growing {
+    margin : 0;
+    }
+    .building-trust-growing-container {
+    margin : 0;
+    height : 146px;
+    position : absolute;
+    font-size : inherit;
+    font-weight : 400;
+    font-family : inherit;
+    display : inline-block;
+    }
+    .blog-page-nav-item, .building-trust-growing-togeth {
+    display : flex;
+    flex-direction : row;
+    align-items : center;
+    justify-content : center;
+    text-align : center;
+    }
+    .blog-page-nav-item {
+    flex-direction : column;
+    justify-content : flex-start;
+    box-sizing : border-box;
+    gap : 24px;
+    max-width : 100%;
+    text-align : left;
+    }
+    .the-real-kalakars1 {
+    margin : 0;
+    height : 48px;
+    position : relative;
+    font-size : inherit;
+    font-weight : 700;
+    font-family : inherit;
+    display : inline-block;
+    }
+    .landing-page-popup-builder-tex, .the-real-kalakars {
+    display : flex;
+    flex-direction : row;
+    align-items : center;
+    justify-content : center;
+    max-width : 100%;
+    }
+    .landing-page-popup-builder-tex {
+    align-items : flex-start;
+    justify-content : flex-start;
+    box-sizing : border-box;
+    }
+    .kala-coach-would {
+    left : 50px;
+    margin : 0;
+    }
+    .kala-coach-would-container {
+    margin : -100px;
+    height : 132px;
+    flex : 1;
+    position : absolute;
+    font-size : inherit;
+    font-weight : 400;
+    font-family : inherit;
+    display : inline-block;
+    max-width : 100%;
+    }
+    .kala-coach-would-like-to-appre {
+    flex : 1;
+    right : 100px;
+    display : flex;
+    flex-direction : row;
+    justify-content : left;
+    max-width : 100%;
+    }
+    .landing-page-text {
+    align-self : stretch;
+    display : flex;
+    flex-direction : row;
+    align-items : flex-start;
+    justify-content : flex-start;
+    box-sizing : border-box;
+    max-width : 100%;
+    }
+    .view-more-button-child {
+    display : flex;
+    position : absolute;
+    top : -3px;
+    left : -1px;
+    background-color : #fce5b9;
+    width : 180px;
+    height : 60px;
+    }
+    .view-more {
+    position : absolute;
+    top : 13px;
+    left : 30px;
+    text-align : left;
+    z-index : 1;
+    }
+    .view-more-button {
+    top : 21px;
+    left : 40px;
+    cursor : pointer;
+    border-radius : 0;
+    padding : 0;
+    width : 162px;
+    height : 49px;
+    position : relative;
+    overflow : hidden;
+    flex-shrink : 0;
+    white-space : nowrap;
+    }
+    .product-text {
+    align-self : stretch;
+    flex-direction : column;
+    text-align : left;
+    }
+    .about-us-frame, .integrated-motive-text, .product-text {
+    display : flex;
+    align-items : flex-start;
+    justify-content : flex-start;
+    max-width : 100%;
+    }
+    .integrated-motive-text {
+    width : 504px;
+    flex-direction : column;
+    }
+    .about-us-frame {
+    width : 1102px;
+    flex-direction : row;
+    box-sizing : border-box;
+    text-align : center;
+    }
+    .store2 {
+    margin : 0;
+    position : relative;
+    font-size : inherit;
+    font-weight : 600;
+    font-family : inherit;
+    }
+    .store1 {
+    display : flex;
+    flex-direction : row;
+    align-items : center;
+    justify-content : center;
+    }
+    .frame-child {
+    align-self : stretch;
+    height : 370px;
+    position : relative;
+    max-width : 100%;
+    overflow : hidden;
+    flex-shrink : 0;
+    object-fit : cover;
+    }
+    .cloth-button {
+    height : 65px;
+    width : 195px;
+    position : absolute;
+    margin : 0 !important ;
+    top : -20px;
+    left : -50px;
+    box-shadow : 0 4px 4px rgb(0, 0, 0, 0.25);
+    backdrop-filter : blur(50px);
+    }
+    .buy-now {
+    height : 36px;
+    left : 0;
+    bottom : 10px;
+    position : relative;
+    text-align : center;
+    display : inline-block;
+    z-index : 1;
+    }
+    .cloth-button-parent {
+    left : -40px;
+    display : flex;
+    flex-direction : row;
+    align-items : flex-start;
+    justify-content : flex-start;
+    position : relative;
+    }
+    .button-1, .component-parent {
+    display : flex;
+    flex-direction : column;
+    }
+    .button-1 {
+    cursor : pointer;
+    border : 0;
+    overflow : hidden;
+    align-items : flex-end;
+    justify-content : center;
+    z-index : 1;
+    margin-top : -97px;
+    }
+    .component-parent {
+    align-self : stretch;
+    flex : 1;
+    align-items : center;
+    justify-content : flex-start;
+    }
+    .view-all1 {
+    margin : 0;
+    position : relative;
+    font-size : inherit;
+    font-weight : 600;
+    font-family : inherit;
+    }
+    .view-all {
+    display : flex;
+    flex-direction : row;
+    align-items : center;
+    justify-content : center;
+    }
+    .frame-frame-frame-rectangle, .view-all-wrapper {
+    display : flex;
+    flex-direction : row;
+    align-items : flex-start;
+    justify-content : flex-start;
+    }
+    .frame-frame-frame-rectangle {
+    align-self : stretch;
+    width : 268px;
+    flex-shrink : 0;
+    flex-direction : column;
+    align-items : center;
+    box-sizing : border-box;
+    }
+    .frame-item {
+    align-self : stretch;
+    height : 380px;
+    position : relative;
+    max-width : 100%;
+    overflow : hidden;
+    flex-shrink : 0;
+    object-fit : cover;
+    border-radius : 20px;
+    }
+    .cloth-button1 {
+    height : 65px;
+    width : 195px;
+    position : absolute;
+    margin : 0 !important ;
+    top : -20px;
+    left : -83px;
+    box-shadow : 0 4px 4px rgb(0, 0, 0, 0.25);
+    backdrop-filter : blur(50px);
+    }
+    .buy-now1 {
+    left : -28px;
+    bottom : 10px;
+    height : 36px;
+    position : relative;
+    text-align : center;
+    display : inline-block;
+    z-index : 1;
+    }
+    .cloth-button-group {
+    display : flex;
+    flex-direction : row;
+    align-items : flex-start;
+    justify-content : flex-start;
+    position : relative;
+    }
+    .button-3, .component-group {
+    display : flex;
+    flex-direction : column;
+    }
+    .button-3 {
+    cursor : pointer;
+    border : 0;
+    overflow : hidden;
+    align-items : flex-end;
+    justify-content : center;
+    z-index : 1;
+    margin-top : -97px;
+    }
+    .component-group {
+    align-self : stretch;
+    flex : 1;
+    align-items : center;
+    justify-content : flex-start;
+    }
+    .view-all3 {
+    margin : 0;
+    position : relative;
+    font-size : inherit;
+    font-weight : 600;
+    font-family : inherit;
+    }
+    .view-all-container, .view-all2 {
+    display : flex;
+    flex-direction : row;
+    align-items : center;
+    justify-content : center;
+    }
+    .view-all-container {
+    align-items : flex-start;
+    justify-content : flex-start;
+    }
+    .frame-frame-frame-rectangle1 {
+    align-self : stretch;
+    width : 258px;
+    flex-shrink : 0;
+    display : flex;
+    flex-direction : column;
+    align-items : center;
+    justify-content : flex-start;
+    }
+    .image-2-icon {
+    border-radius : 25px;
+    align-self : stretch;
+    height : 370px;
+    position : relative;
+    max-width : 100%;
+    overflow : hidden;
+    flex-shrink : 0;
+    object-fit : cover;
+    }
+    .cloth-button2 {
+    height : 65px;
+    width : 195px;
+    position : absolute;
+    margin : 0 !important ;
+    top : -20px;
+    left : -90px;
+    box-shadow : 0 4px 4px rgb(0, 0, 0, 0.25);
+    backdrop-filter : blur(50px);
+    }
+    .buy-now2 {
+    height : 36px;
+    left : -40px;
+    bottom : 10px;
+    position : relative;
+    text-align : center;
+    display : inline-block;
+    z-index : 1;
+    }
+    .cloth-button-container {
+    display : flex;
+    flex-direction : row;
+    align-items : flex-start;
+    justify-content : flex-start;
+    position : relative;
+    }
+    .button-2, .image-2-parent {
+    display : flex;
+    flex-direction : column;
+    }
+    .button-2 {
+    cursor : pointer;
+    border : 0;
+    overflow : hidden;
+    align-items : flex-end;
+    justify-content : center;
+    z-index : 1;
+    margin-top : -97px;
+    }
+    .image-2-parent {
+    align-self : stretch;
+    flex : 1;
+    align-items : center;
+    justify-content : flex-start;
+    }
+    .view-all5 {
+    margin : 0;
+    position : relative;
+    font-size : inherit;
+    font-weight : 600;
+    font-family : inherit;
+    }
+    .view-all-frame, .view-all4 {
+    display : flex;
+    flex-direction : row;
+    align-items : center;
+    justify-content : center;
+    }
+    .view-all-frame {
+    align-items : flex-start;
+    justify-content : flex-start;
+    }
+    .frame-frame-frame-rectangle2 {
+    align-self : stretch;
+    width : 278px;
+    flex-shrink : 0;
+    display : flex;
+    flex-direction : column;
+    align-items : center;
+    justify-content : flex-start;
+    }
+    .image-5-icon {
+    border-radius : 20px;
+    align-self : stretch;
+    height : 370px;
+    position : relative;
+    max-width : 100%;
+    overflow : hidden;
+    flex-shrink : 0;
+    object-fit : cover;
+    }
+    .cloth-button3 {
+    height : 65px;
+    width : 195px;
+    position : absolute;
+    margin : 0 !important ;
+    top : -20px;
+    left : -80px;
+    box-shadow : 0 4px 4px rgb(255, 255, 255, 0.25);
+    backdrop-filter : blur(50px);
+    }
+    .buy-now3 {
+    left : -30px;
+    bottom : 10px;
+    height : 36px;
+    position : relative;
+    text-align : center;
+    display : inline-block;
+    z-index : 1;
+    }
+    .frame-div {
+    display : flex;
+    flex-direction : row;
+    align-items : flex-start;
+    justify-content : flex-start;
+    position : relative;
+    }
+    .button-4, .image-5-parent {
+    display : flex;
+    flex-direction : column;
+    }
+    .button-4 {
+    cursor : pointer;
+    border : 0;
+    overflow : hidden;
+    align-items : flex-end;
+    justify-content : center;
+    z-index : 1;
+    margin-top : -97px;
+    }
+    .image-5-parent {
+    align-self : stretch;
+    flex : 1;
+    align-items : center;
+    justify-content : flex-start;
+    }
+    .view-all7 {
+    margin : 0;
+    position : relative;
+    font-size : inherit;
+    font-weight : 600;
+    font-family : inherit;
+    }
+    .view-all-wrapper1, .view-all6 {
+    display : flex;
+    flex-direction : row;
+    align-items : center;
+    justify-content : center;
+    }
+    .view-all-wrapper1 {
+    align-items : flex-start;
+    justify-content : flex-start;
+    }
+    .frame-frame-frame-rectangle3 {
+    align-self : stretch;
+    width : 258px;
+    flex-shrink : 0;
+    display : flex;
+    flex-direction : column;
+    align-items : center;
+    justify-content : flex-start;
+    }
+    .frame-frame-frame-rectangle-parent {
+    width : 1212px;
+    flex : 1;
+    overflow-x : auto;
+    flex-direction : row;
+    align-items : flex-start;
+    }
+    .frame-frame-frame-rectangle-parent, .k-crafters-frame, .store-parent {
+    display : flex;
+    justify-content : flex-start;
+    max-width : 100%;
+    }
+    .store-parent {
+    align-self : stretch;
+    flex-direction : column;
+    align-items : center;
+    }
+    .k-crafters-frame {
+    height : 543px;
+    flex-direction : row;
+    align-items : flex-start;
+    box-sizing : border-box;
+    }
+    .products {
+    height : 48px;
+    position : relative;
+    font-weight : 600;
+    display : inline-block;
+    }
+    .crafters {
+    height : 48px;
+    position : relative;
+    font-weight : 600;
+    display : inline-block;
+    }
+    .rectangle-separator {
+    height : 145px;
+    width : 340px;
+    position : absolute;
+    margin : 0 !important ;
+    top : -49px;
+    left : calc(50% - 170px);
+    box-shadow : 0 4px 4px rgb(0, 0, 0, 0.25);
+    backdrop-filter : blur(1.5px);
+    z-index : 1;
+    }
+    .rectangle-separator1 {
+    height : 145px;
+    width : 340px;
+    position : absolute;
+    margin : 0 !important ;
+    top : -49px;
+    left : calc(70% - 210px);
+    box-shadow : 0 4px 4px rgb(0, 0, 0, 0.25);
+    backdrop-filter : blur(1.5px);
+    z-index : 1;
+    }
+    .k-crafters {
+    display : flex;
+    flex-direction : row;
+    align-items : flex-start;
+    justify-content : flex-start;
+    position : relative;
+    }
+    .k-crafters1 {
+    margin : 0;
+    height : 48px;
+    position : relative;
+    font-size : inherit;
+    font-weight : 600;
+    font-family : inherit;
+    display : inline-block;
+    }
+    .landing-page-popup-builder-child {
+    height : 145px;
+    width : 340px;
+    position : absolute;
+    margin : 0 !important ;
+    top : -49px;
+    left : -38px;
+    z-index : 1;
+    }
+    .landing-page-popup-builder, .menufootervert {
+    display : flex;
+    align-items : flex-start;
+    justify-content : flex-start;
+    }
+    .landing-page-popup-builder {
+    flex-direction : row;
+    position : relative;
+    }
+    .menufootervert {
+    flex-direction : column;
+    }
+    .k-customers {
+    height : 48px;
+    position : relative;
+    font-weight : 600;
+    display : inline-block;
+    }
+    .k-crafters-child {
+    height : 145px;
+    width : 402px;
+    position : absolute;
+    margin : 0 !important ;
+    top : -50px;
+    right : -31px;
+    box-shadow : 0 4px 4px rgb(0, 0, 0, 0.25);
+    backdrop-filter : blur(1.5px);
+    z-index : 1;
+    }
+    .footer-menu, .k-crafters2, .page-3-info {
+    display : flex;
+    flex-direction : row;
+    max-width : 100%;
+    }
+    .k-crafters2 {
+    align-items : flex-start;
+    justify-content : flex-start;
+    position : relative;
+    }
+    .footer-menu, .page-3-info {
+    box-sizing : border-box;
+    }
+    .page-3-info {
+    flex : 1;
+    overflow : hidden;
+    align-items : flex-end;
+    justify-content : space-between;
+    padding : 97px 134px 104px 106px;
+    }
+    .footer-menu {
+    align-self : stretch;
+    align-items : flex-start;
+    justify-content : flex-start;
+    padding : 0 0 40px;
+    }
+    .about-us1 {
+    margin : 0;
+    position : relative;
+    font-size : inherit;
+    font-weight : 600;
+    font-family : inherit;
+    }
+    .about-us, .integrations {
+    display : flex;
+    flex-direction : row;
+    align-items : center;
+    justify-content : center;
+    }
+    .integrations {
+    width : 152px;
+    align-items : flex-start;
+    justify-content : flex-end;
+    }
+    .the-main-motive {
+    margin : 0;
+    flex : 1;
+    position : relative;
+    font-size : inherit;
+    font-weight : 400;
+    font-family : inherit;
+    display : inline-block;
+    max-width : 100%;
+    z-index : 1;
+    }
+    .the-main-motive-of-us-is-to-pr {
+    align-self : stretch;
+    display : flex;
+    flex-direction : row;
+    align-items : center;
+    justify-content : center;
+    max-width : 100%;
+    text-align : center;
+    }
+    .content, .products-and-customers, .webdesign {
+    display : flex;
+    justify-content : flex-start;
+    max-width : 100%;
+    }
+    .content {
+    width : 980px;
+    flex-direction : column;
+    align-items : center;
+    box-sizing : border-box;
+    }
+    .products-and-customers, .webdesign {
+    width : 1059px;
+    flex-direction : row;
+    align-items : flex-start;
+    }
+    .products-and-customers {
+    width : 1403px;
+    flex-direction : column;
+    align-items : center;
+    max-width : 101%;
+    flex-shrink : 0;
+    }
+    .page-info-frame {
+    align-self : stretch;
+    display : flex;
+    flex-direction : row;
+    align-items : flex-start;
+    justify-content : flex-start;
+    box-sizing : border-box;
+    max-width : 100%;
+    text-align : left;
+    }
+    .contact-us1 {
+    margin : 0;
+    position : relative;
+    font-size : inherit;
+    font-weight : 600;
+    font-family : inherit;
+    }
+    .connectwith-us, .contact-us {
+    display : flex;
+    flex-direction : row;
+    align-items : center;
+    justify-content : center;
+    z-index : 1;
+    }
+    .connectwith-us {
+    align-items : flex-start;
+    justify-content : flex-start;
+    }
+    .desktop-12-child, .desktop-12-item {
+    position : absolute;
+    margin : 0 !important ;
+    }
+    .desktop-12-child {
+    display : flex;
+    width : 1850px;
+    height : 240px;
+    bottom : -30px;
+    left : -372px;
+    z-index : 1;
+    }
+    .desktop-12-item {
+    display : flex;
+    width : 2200px;
+    height : 322px;
+    right : -664px;
+    bottom : -80px;
+    z-index : 2;
+    }
+    .product-child {
+    position : absolute;
+    top : 0;
+    left : -20px;
+    width : 100%;
+    height : 100%;
+    }
+    .kalacoach-can-be, .learn-more1 {
+    bottom : -200px;
+    position : relative;
+    display : inline-block;
+    z-index : 3;
+    }
+    .learn-more1 {
+    bottom : -50%;
+    margin : 0;
+    height : 42px;
+    font-size : inherit;
+    font-weight : 700;
+    font-family : inherit;
+    flex-shrink : 0;
+    white-space : nowrap;
+    }
+    .kalacoach-can-be {
+    display : flex;
+    width : 438px;
+    height : 63px;
+    max-width : 100%;
+    }
+    .learn-more {
+    bottom : 400px;
+    position : absolute;
+    top : 146px;
+    left : 98px;
+    background-color : transparent;
+    width : 549px;
+    overflow : hidden;
+    display : flex;
+    flex-direction : column;
+    align-items : flex-start;
+    justify-content : flex-start;
+    box-sizing : border-box;
+    max-width : 100%;
+    z-index : 1;
+    }
+    .get-started {
+    bottom : -1px;
+    width : 145px;
+    position : relative;
+    font-weight : 600;
+    text-align : center;
+    display : inline-block;
+    z-index : 3;
+    }
+    .button {
+    cursor : pointer;
+    border : 0;
+    position : absolute;
+    top : 550px;
+    left : 135px;
+    width : 203px;
+    display : flex;
+    flex-direction : row;
+    align-items : center;
+    justify-content : center;
+    box-sizing : border-box;
+    white-space : nowrap;
+    z-index : 2;
+    }
+    .connect-with-us1 {
+    bottom : -180px;
+    margin : 0;
+    position : relative;
+    font-size : inherit;
+    font-weight : 700;
+    font-family : inherit;
+    }
+    .madhavkalacoachgmailcom {
+    bottom : -170px;
+    position : relative;
+    white-space : nowrap;
+    z-index : 1;
+    }
+    .kalacoach {
+    bottom : -170px;
+    position : relative;
+    }
+    .contact-us-info {
+    bottom : -170px;
+    white-space : nowrap;
+    }
+    .contact-us-info, .kalacoach-headquarters-rajpur {
+    position : relative;
+    bottom : -170px;
+    }
+    .kala-coach-h-q {
+    gap : 14px;
+    }
+    .company-headquarters, .connect-with-us, .kala-coach-h-q {
+    bottom : -100px;
+    display : flex;
+    flex-direction : column;
+    align-items : flex-start;
+    justify-content : flex-start;
+    }
+    .company-headquarters {
+    gap : 19px;
+    z-index : 3;
+    bottom : -110px;
+    }
+    .connect-with-us {
+    position : absolute;
+    top : 165px;
+    left : 1085px;
+    overflow : hidden;
+    z-index : 3;
+    }
+    .product1 {
+    width : 99px;
+    display : inline-block;
+    }
+    .content1, .integrations1, .landing-page, .popup-builder, .product1, .web-design {
+    position : relative;
+    }
+    .integrations1 {
+    width : 0;
+    flex : 1;
+    display : inline-block;
+    }
+    .menufootervert1, .webdesign1 {
+    display : flex;
+    flex-direction : column;
+    align-items : flex-start;
+    justify-content : flex-start;
+    }
+    .webdesign1 {
+    flex : 1;
+    }
+    .menufootervert1 {
+    position : absolute;
+    top : 378px;
+    left : 895px;
+    width : 180px;
+    height : 197px;
+    z-index : 3;
+    }
+    .product2 {
+    bottom : -180px;
+    width : 94px;
+    display : inline-block;
+    }
+    .content2, .integrations2, .landing-page1, .popup-builder1, .product2, .web-design1 {
+    bottom : -180px;
+    position : relative;
+    }
+    .integrations2 {
+    width : 0;
+    flex : 1;
+    display : inline-block;
+    }
+    .landing-page-parent, .menufootervert11 {
+    display : flex;
+    flex-direction : column;
+    align-items : flex-start;
+    justify-content : flex-start;
+    }
+    .landing-page-parent {
+    flex : 1;
+    }
+    .menufootervert11 {
+    position : absolute;
+    top : 197px;
+    left : 698px;
+    width : 180px;
+    height : 197px;
+    z-index : 1;
+    }
+    .product {
+    height : 1000px;
+    width : 1480px;
+    position : relative;
+    max-width : 102%;
+    flex-shrink : 0;
+    }
+    .product-landing-page-popup-bui {
+    width : 1454px;
+    display : flex;
+    flex-direction : row;
+    align-items : flex-start;
+    justify-content : flex-start;
+    padding : 0;
+    box-sizing : border-box;
+    max-width : 101%;
+    flex-shrink : 0;
+    }
+    .desktop-12, .menu-footer-vert-components {
+    display : flex;
+    box-sizing : border-box;
+    text-align : left;
+    }
+    .menu-footer-vert-components {
+    align-self : stretch;
+    height : 755px;
+    flex-direction : row;
+    align-items : flex-start;
+    justify-content : flex-end;
+    padding : 0;
+    max-width : 100%;
+    }
+    .desktop-12 {
+    width : 100%;
+    position : relative;
+    overflow : hidden;
+    flex-direction : column;
+    align-items : center;
+    justify-content : flex-start;
+    letter-spacing : normal;
+    color : white;
+    }
+    @media screen and (max-width: 1250px) {
+    .page-3-info {
+    flex-wrap : wrap;
+    padding-left : 53px;
+    padding-right : 67px;
+    box-sizing : border-box;
+    }
+    .page-info-frame {
+    padding-bottom : 387px;
+    box-sizing : border-box;
+    }
+    }
+    @media screen and (max-width: 1100px) {
+    .nav-bar {
+    flex-wrap : wrap;
+    }
+    .frame-parent {
+    box-sizing : border-box;
+    }
+    .page-info-frame {
+    padding-bottom : 252px;
+    box-sizing : border-box;
+    }
+    }
+    @media screen and (max-width: 750px) {
+    .pot-image {
+    padding-top : 101px;
+    box-sizing : border-box;
+    }
+    .building-trust-growing-container {
+    font-size : 48px;
+    }
+    .about-us-frame {
+    padding-bottom : 131px;
+    box-sizing : border-box;
+    }
+    .page-3-info {
+    padding-left : 26px;
+    padding-right : 33px;
+    box-sizing : border-box;
+    }
+    .page-info-frame {
+    padding-bottom : 164px;
+    box-sizing : border-box;
+    }
+    }
+    @media screen and (max-width: 450px) {
+    .frame-parent {
+    box-sizing : border-box;
+    }
+    }
+    .nav-bar {
+    background-color : white;
+    }
+    .join-us-button {
+    width : 80%;
+    height : 50px;
+    display : inline-block;
+    padding : 40px 20px;
+    background-color : #000000;
+    color : #fff;
+    border : none;
+    border-radius : 0;
+    cursor : pointer;
+    font-family : 'Inter', sans-serif;
+    font-weight : 600;
+    font-size : large;
+    text-decoration : none;
+    transition : background-color 0.3s ease;
+    }
+    .join-us-button:hover {
+    background-color : #000000;
+    }
+    @media screen and (max-width: 768px) {
+    .join-us-button {
+    padding : 40px 16px;
+    }
+    }
+    @media screen and (max-width: 480px) {
+    .join-us-button {
+    padding : 6px 12px;
+    font-size : 14px;
+    }
+    }
+    .navigation-bar a {
+    color : #000;
+    text-decoration : none;
+    }
+    .navigation-bar a:hover {
+    color : #333;
+    }
+    .lightbox-container {
+    position : relative;
+    width : 500px;
+    margin : 0 auto;
+    }
+    .lightbox-image {
+    border-radius : 20px;
+    position : relative;
+    width : 100%;
+    height : 400px;
+    background-size : cover;
+    background-position : center;
+    overflow : hidden;
+    transition : transform 0.4s ease;
+    }
+    .thumbnail-gallery {
+    display : flex;
+    justify-content : center;
+    margin-top : 20px;
+    }
+    .thumbnail {
+    border-radius : 20px;
+    width : 80px;
+    height : 80px;
+    background-size : cover;
+    background-repeat : no-repeat;
+    background-position : center;
+    margin : 0 10px;
+    cursor : pointer;
+    transition : transform 0.3s ease;
+    }
+    .thumbnail:hover {
+    transform : scale(1.1);
+    }
+    body {
+    font-family : 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color : #f0f0f0;
+    }
+    .container {
+    background-position : center;
+    opacity : 0.8;
+    backdrop-filter : blur(1000px);
+    max-width : 1000px;
+    margin : 0 auto;
+    padding : 30px 300px;
+    background : rgb(200, 173, 116);
+    border-radius : 20px;
+    box-shadow : 0 0 20px rgb(0, 0, 0, 0.1);
+    }
+    h2 {
+    text-align : center;
+    color : #000000;
+    margin-bottom : 20px;
+    }
+    .form-group {
+    margin-bottom : 20px;
+    }
+    label {
+    color : #000000;
+    font-weight : bold;
+    }
+    input[type="text"], input[type="tel"], input[type="email"], textarea {
+    width : 100%;
+    padding : 10px;
+    border : none;
+    border-radius : 8px;
+    background : rgb(255, 255, 255, 0.5);
+    backdrop-filter : blur(5px);
+    box-shadow : 0 0 10px rgb(0, 0, 0, 0.1);
+    color : #333;
+    }
+    textarea {
+    min-height : 100px;
+    }
+    button {
+    width : 100%;
+    padding : 15px;
+    border : #000 solid 2px;
+    border-radius : 20px;
+    background-color : #fff;
+    color : #000;
+    font-weight : bold;
+    cursor : pointer;
+    transition : all 0.3s ease;
+    }
+    button:hover {
+    background-color : #000;
+    color : #fff;
+    }
+    .popup {
+    display : none;
+    position : fixed;
+    top : 50%;
+    left : 50%;
+    transform : translate(-50%,-50%);
+    background-color : rgb(255, 255, 255, 0.8);
+    padding : 20px;
+    border-radius : 10px;
+    box-shadow : 0 0 20px rgb(0, 0, 0, 0.1);
+    z-index : 1000;
+    }
+    .popup-content {
+    text-align : center;
+    }
+    .close {
+    position : absolute;
+    top : 10px;
+    right : 15px;
+    font-size : 20px;
+    cursor : pointer;
+    color : #333;
+    }
